@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Steveete
-- 👀 I’m interested in ethical hacking and cybersecurity
+- 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning ...
 - 💞️ A little help people
 - 📫 How to reach me thegenesis666@gmail.com
