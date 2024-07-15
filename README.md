@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Steveete
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning, looking for someone who can show me the light     https://github.com/pdhuff/csec_data_analytics ...
 - 💞️ A little help people
 - 📫 How to reach me thegenesis666@gmail.com
 
